@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cases lastId="6">
+    <case id="1">
+        <student>
+            <name>Иван</name>
+            <surname>Иванов</surname>
+            <patronymic>Иванович</patronymic>
+            <address>Витебск, Гагарина 21-21</address>
+            <documentId>BM1234567</documentId>
+        </student>
+        <faculty>фармация</faculty>
+        <educationForm>очная</educationForm>
+        <paymentType>внебюджет</paymentType>
+        <creationDate>20.10.2021</creationDate>
+    </case>
+    <case id="2">
+        <student>
+            <name>Петр</name>
+            <surname>Петров</surname>
+            <patronymic>Петрович</patronymic>
+            <address>Витебск, Фрунзе 21-21</address>
+            <documentId>BM0101010</documentId>
+        </student>
+        <faculty>фармация</faculty>
+        <educationForm>заочная</educationForm>
+        <paymentType>внебюджет</paymentType>
+        <creationDate>12.10.2021</creationDate>
+    </case>
+    <case id="3">
+        <student>
+            <name>Тамара</name>
+            <surname>Тиханская</surname>
+            <patronymic>Максимовна</patronymic>
+            <address>Витебск, Московский пр-т 40-125</address>
+            <documentId>BM9991114</documentId>
+        </student>
+        <faculty>стоматология</faculty>
+        <educationForm>очная</educationForm>
+        <paymentType>бюджет</paymentType>
+        <creationDate>11.10.2021</creationDate>
+    </case>
+    <case id="4">
+        <student>
+            <name>Татьяна</name>
+            <surname>Крицкая</surname>
+            <patronymic>Юрьевна</patronymic>
+            <address>Витебск</address>
+            <documentId>ВМ2839239</documentId>
+        </student>
+        <faculty>лечебное дело</faculty>
+        <educationForm>очная</educationForm>
+        <paymentType>бюджет</paymentType>
+        <creationDate>19.10.2021</creationDate>
+    </case>
+    <case id="5">
+        <student>
+            <name>Екатерина</name>
+            <surname>Никифорова</surname>
+            <patronymic>Юрьевна</patronymic>
+            <address>Витебск</address>
+            <documentId>ВМ1212254</documentId>
+        </student>
+        <faculty>фармация</faculty>
+        <educationForm>заочная</educationForm>
+        <paymentType>внебюджет</paymentType>
+        <creationDate>05.11.2021</creationDate>
+    </case>
+    <case id="6">
+        <student>
+            <name>Мария</name>
+            <surname>Литвинчу</surname>
+            <patronymic>Сергеевна</patronymic>
+            <address>Пинск</address>
+            <documentId>АВ0000000</documentId>
+        </student>
+        <faculty>лечебное дело</faculty>
+        <educationForm>очная</educationForm>
+        <paymentType>бюджет</paymentType>
+        <creationDate>05.11.2021</creationDate>
+    </case>
+</cases>

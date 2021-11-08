@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+    <user>
+        <login>admin</login>
+        <password>21232f297a57a5a743894a0e4a801fc3</password>
+        <role>администратор</role>
+    </user>
+    <user>
+        <login>reader</login>
+        <password>1de9b0a30075ae8c303eb420c103c320</password>
+        <role>пользователь</role>
+    </user>
+</users>
